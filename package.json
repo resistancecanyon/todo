@@ -1,0 +1,23 @@
+{
+  "name": "todo",
+  "version": "1.0.0",
+  "description": "todo frontend app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/resistancecanyon/todo.git"
+  },
+  "keywords": [
+    "todo",
+    "app"
+  ],
+  "author": "resistancecanyon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/resistancecanyon/todo/issues"
+  },
+  "homepage": "https://github.com/resistancecanyon/todo#readme"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "todo",
+  "description": "todo frontend app",
+  "main": "index.js",
+  "authors": [
+    "resistancecanyon"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "todo",
+    "app"
+  ],
+  "homepage": "https://github.com/resistancecanyon/todo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3"
+  }
+}
